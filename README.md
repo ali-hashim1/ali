@@ -1,2 +1,4 @@
-# ali
-Ali's GitHub Cave
+- Hi welcome to Ali's hideout!
+- I'm interested in autonomous systems, cars, IoT, and just DIYing in general.
+- I'm a Field Application Engineer Intern at Solidigm (formerly Intel)
+- I'm a fourth year Computer Engineering student at SDSU
